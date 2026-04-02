@@ -165,8 +165,10 @@ GSMS/
 │   ├── services.txt            # Service records
 │   └── invoices.txt            # Invoice records
 ├── docs/
-│   ├── Project_Overview.md     # Detailed system overview
-│   └── Project_Report.md       # Full project report
+│   └── GSMS_Project_Report.pdf # Full project report (33 pages)
+├── screenshots/
+│   ├── welcome-screen.png      # Welcome & login screen
+│   └── main-menu.png           # Main menu interface
 ├── .gitignore
 └── README.md
 ```
@@ -201,14 +203,11 @@ INV001|001|1|John Smith|Oil Change|2025-01-15|50.00|Paid
 
 ## Screenshots
 
-<details>
-<summary>Click to expand</summary>
+### Welcome & Login Screen
+![Welcome Screen](screenshots/welcome-screen.png)
 
-> *Add screenshots of the running application here.*
->
-> You can capture them by running the program and using your terminal's screenshot feature.
-
-</details>
+### Main Menu (After Login)
+![Main Menu](screenshots/main-menu.png)
 
 ---
 
