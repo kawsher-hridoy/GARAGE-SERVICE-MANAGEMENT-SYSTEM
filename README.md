@@ -229,7 +229,7 @@ INV001|001|1|John Smith|Oil Change|2025-01-15|50.00|Paid
 |------|--------|------|
 | **Kawsher Hridoy** | [@Kawsher-hridoy](https://github.com/Kawsher-hridoy) | Developer |
 | **Shafiur Rahman Shafim** | [@shafiur0](https://github.com/shafiur0) | Developer |
-| **Arnob Kumar Paul** | [@arnob0](https://github.com/arnob0) | Developer |
+| **Arnob Kumar Paul** | [@arnob0](https://github.com/arnob145) | Developer |
 
 > *Software Development Capstone Project*
 
