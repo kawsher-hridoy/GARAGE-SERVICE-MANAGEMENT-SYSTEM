@@ -1,0 +1,5 @@
+001|1|Oil Change|2025-01-15|Completed|50.00
+002|1|Brake Inspection|2025-01-15|Pending|75.00
+003|3|Tire Replacement|2025-01-16|Completed|200.00
+004|4|Full Service|2025-01-16|Completed|150.00
+005|5|Engine Diagnostic|2025-01-17|In Progress|120.00

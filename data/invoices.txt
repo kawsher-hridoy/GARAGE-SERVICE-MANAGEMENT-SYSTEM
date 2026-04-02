@@ -1,0 +1,3 @@
+INV001|001|1|John Smith|Oil Change|2025-01-15|50.00|Paid
+INV002|003|3|Michael Brown|Tire Replacement|2025-01-16|200.00|Paid
+INV003|004|4|Emily Davis|Full Service|2025-01-16|150.00|Pending

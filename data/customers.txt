@@ -1,0 +1,5 @@
+001|John Smith|555-0101|123 Main Street, Springfield|ABC-1234|Toyota|Camry|2020|Blue
+002|Sarah Johnson|555-0202|456 Oak Avenue, Riverside|XYZ-5678|Honda|Civic|2019|Red
+003|Michael Brown|555-0303|789 Pine Road, Lakewood|DEF-9012|BMW|X5|2021|Black
+004|Emily Davis|555-0404|321 Elm Street, Hillside|GHI-3456|Ford|Mustang|2022|White
+005|Robert Wilson|555-0505|654 Maple Drive, Greenville|JKL-7890|Nissan|Altima|2018|Silver
