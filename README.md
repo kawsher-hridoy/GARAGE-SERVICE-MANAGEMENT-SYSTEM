@@ -17,6 +17,7 @@ A console-based garage management application built in C that digitizes and stre
 - [Data Format](#data-format)
 - [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
+- [Contributors](#contributors)
 - [License](#license)
 
 ---
@@ -219,6 +220,18 @@ INV001|001|1|John Smith|Oil Change|2025-01-15|50.00|Paid
 - Web-based GUI using HTML/CSS/JavaScript
 - PDF/Excel report export
 - SMS/Email customer notifications
+
+---
+
+## Contributors
+
+| Name | GitHub | Role |
+|------|--------|------|
+| **Kawsher Hridoy** | [@Kawsher-hridoy](https://github.com/Kawsher-hridoy) | Developer |
+| **Shafiur Rahman Shafim** | [@shafiur0](https://github.com/shafiur0) | Developer |
+| **Arnob Kumar Paul** | [@arnob0](https://github.com/arnob0) | Developer |
+
+> *Software Development Capstone Project*
 
 ---
 
